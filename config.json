@@ -1,0 +1,38 @@
+{
+  "tokens": [
+    "Токен №1 от Kate Mobile",
+    "Токен №2 от Kate Mobile",
+    "Токен №3 от Kate Mobile"
+  ],
+  "secret_code": "",
+  "delete_all_notify": false,
+  "ru_captcha_key": "Secret Key RuCaptchi API",
+  "ignored_members": [],
+  "ignored_global_members": [],
+  "muted_members": [],
+  "aliases": [],
+  "bio_reply": false,
+  "service_prefixes": [
+      "!слп",
+      ".слп"
+    ],
+    "self_prefixes": [
+      "!л",
+      ".л"
+    ],
+    "duty_prefixes": [
+      "!лд",
+      ".лд"
+    ],
+  "sloumo": [],
+  "auto_exit_from_chat": false,
+  "auto_exit_from_chat_delete_chat": false,
+  "auto_exit_from_chat_add_to_black_list": false,
+  "add_to_friends_on_chat_enter": [],
+  "role_play_commands": [],
+  "disable_notifications": false,
+  "trusted": [],
+  "repeater_word": "..",
+  "repeater_active": false,
+  "regex_deleter": []
+}
